@@ -73,5 +73,5 @@ oauth_listener <- function(request_url, is_interactive = interactive()) {
 #' @keywords internal
 #' @export
 oauth_callback <- function() {
-  "http://localhost:1410/"
+  "https://supr84.shinyapps.io/DataProductsCoursera/"
 }
